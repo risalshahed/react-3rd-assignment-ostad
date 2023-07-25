@@ -1,11 +1,11 @@
 import { Route, Routes } from 'react-router-dom'
 import './App.css'
-import Header from './components/Header'
+import Header from './pages/Header'
 import './milligram.css'
-import Home from './components/Home'
-import Income from './components/Income'
-import Expense from './components/Expense'
-import NotFound from './components/NotFound'
+import Home from './pages/Home'
+import Income from './pages/Income'
+import Expense from './pages/Expense'
+import NotFound from './pages/NotFound'
 
 function App() {
     return (
