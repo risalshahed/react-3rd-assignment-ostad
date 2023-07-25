@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  color: #000;
+  text-align: center;
+}
+
+button {
+  cursor: pointer;
+}
+
+header {
+    height: 64px;
+    padding-top: 20px;
+    margin-bottom: 32px;
+    background-color: #eee;
+}
+
+header a {
+    margin-right: 36px;
+    color: blueviolet;
+}
+
+header a:hover {
+    color: blue;
+}
